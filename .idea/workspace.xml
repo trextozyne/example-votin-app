@@ -18,6 +18,11 @@
   <component name="ChangeListManager">
     <list default="true" id="689fcab2-0c48-42ec-accb-176b48e90b4e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-app-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-app-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result-app-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/result-app-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/voting-app-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/voting-app-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker-app-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/worker-app-deployment.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654582425398</updated>
-      <workItem from="1654582435951" duration="8514000" />
+      <workItem from="1654582435951" duration="10575000" />
     </task>
     <servers />
   </component>
@@ -103,14 +108,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1654582446465" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654673515769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1654673515769" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1654672901068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1654672901068" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1654673044162">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1654674537306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1654673044162" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1654674537306" />
     <state x="390" y="99" width="585" height="530" key="find.popup" timestamp="1654582960675">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

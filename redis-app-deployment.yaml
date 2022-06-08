@@ -2,7 +2,8 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: redis-deploy
-  labels: redis-deploy
+  labels:
+    name: redis-deploy
     app: demo-redis
 spec:
   replicas: 1

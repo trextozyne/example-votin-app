@@ -2,7 +2,8 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: worker-app-deploy
-  labels: worker-app-deploy
+  labels:
+    name: worker-app-deploy
     app: demo-worker-app
 spec:
   replicas: 1
